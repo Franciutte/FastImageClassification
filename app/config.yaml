@@ -1,5 +1,5 @@
 resize_shape: [224, 224]
 targets: ['beach', 'city', 'sunset', 'trees']
 model_path: "2020-05-08 19_40_43-model_MobileNetV2-epochs_12-acc_0.94-train time_5093sec-classes_2.h5"
-model_url: "https://github.com/Franciutte/FastImageClassification/releases/download/untagged-3decef2fa8b4c1b0d5db/2020-05-08.19_40_43-model_MobileNetV2-epochs_12-acc_0.94-train.time_5093sec-classes_2.h5"
+model_url: "https://github.com/Franciutte/FastImageClassification/releases/download/v1.1/2020-05-08.19_40_43-model_MobileNetV2-epochs_12-acc_0.94-train.time_5093sec-classes_2.h5"
 model_sha256: "834922b321202b2cd01d57e3714fef999b0ff0804281aacfddd1be5007b9e85e"
